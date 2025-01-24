@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aayan&label=Profile%20views&color=0e75b6&style=flat" alt="m-aayan" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **JavaScript advanced**
 
-- 💬 Ask me about **Figma,Adobe XD**
+- 💬 Ask me about **Figma,HTML,CSS,Js basics**
 
 - 📫 How to reach me **muhammadaayanshaikhforbusiness@gmail.com**
 
-- 📄 Know about my experiences [https://m-aayan.github.io/HTML-final-Portfolio/](https://m-aayan.github.io/HTML-final-Portfolio/)
+- 📄 Know about my experiences [https://m-aayan.github.io/Main-Portfolio/#about)
 
 - ⚡ Fun fact **When I'm not designing or coding, I'm leveling up in the gaming world! My passion for gaming fuels my creativity and attention to detail, whether I'm crafting immersive UI/UX designs or building interactive web experiences.**
 
