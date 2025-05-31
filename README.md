@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aayan</h1>
 <h3 align="center">Creative UI Designer & Passionate Developer on a Full-Stack Journey 🌐</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0)">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aayan&label=Profile%20views&color=0e75b6&style=flat" alt="m-aayan" /> </p>
 
