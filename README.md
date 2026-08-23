@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aayan</h1>
-<h3 align="center">Front-End Developer & UI/UX Designer — currently leveling up with React, heading toward full-stack 🌐</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aayan&label=Profile%20views&color=0e75b6&style=flat" alt="m-aayan" /> </p>
+<h3 align="center">Front-End Developer & UI/UX Designer — currently leveling up with React, heading toward full-stack 🌐</h3>
 
 # 💫 About Me:
 I'm Aayan, a Computer Science student and Frontend Developer from Karachi, Pakistan, currently building my skills toward becoming a Full Stack Developer.<br><br>💻 Frontend Developer focused on building responsive and user-friendly web applications.<br>⚛️ Currently learning React.js and strengthening my JavaScript fundamentals.<br>🎨 Skilled in HTML, CSS, JavaScript, Tailwind CSS,WordPress and Figma.<br>🛠️ Experienced with Git & GitHub and modern frontend development workflows.<br>🚀 Built projects including To-Do Apps, Calculators, Games, and responsive websites.<br>🌐 Interested in building real-world web applications rather than only tutorial projects.<br>📚 Currently progressing toward Full Stack Development — React → Next.js → Backend → Database → Authentication → API's<br>🎓 Pursuing a BS in Computer Science from ILMA UNIVERSITY.<br>💼 Open to internships, junior frontend opportunities, and collaborative projects.
+<br>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0">
+<br>
 
 
 ## 🌐 Socials:
@@ -20,7 +22,3 @@ I'm Aayan, a Computer Science student and Frontend Developer from Karachi, Pakis
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=M-Aayan&icon=10&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
