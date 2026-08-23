@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aayan</h1>
-<h3 align="center">Creative UI Designer & Passionate Developer on a Full-Stack Journey 🌐</h3>
+<h3 align="center">Front-End Developer & UI/UX Designer — currently leveling up with React, heading toward full-stack 🌐</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aayan&label=Profile%20views&color=0e75b6&style=flat" alt="m-aayan" /> </p>
 
 # 💫 About Me:
 
-🌱 I’m currently learning JavaScript advanced and Tailwind<br>👨‍💻 All of my projects are available at https://m-aayan.github.io/Main-Portfolio/#about<br>💬 Ask me about Figma, HTML, CSS, Js basics, Git
+🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at https://m-aayan.github.io/Main-Portfolio/#about<br>💬 Ask me about Figma, HTML, CSS, Js, Git, React
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0">
-<br>📫 How to reach me muhammadaayanshaikhforbusiness@gmail.com<br>📄 Know about my experiences https://m-aayan.github.io/Main-Portfolio/Resume.pdf<br>
-⚡ Fun fact When I'm not designing in Figma or coding the web, you'll find me deep into story-driven games or exploring new places — because I believe every great developer needs a good adventure, on-screen and off! 🌍✨
+<br>📫 How to reach me aayanshaikh8426@gmail.com<br>📄 Know about my experiences https://m-aayan.github.io/Main-Portfolio/Resume.pdf<br>
+⚡ Fun fact: Outside of Figma and code, you'll find me gaming. Trying to turn "I'll do it later" into an actual hobby list 🎮
 
 
 ## 🌐 Socials:
