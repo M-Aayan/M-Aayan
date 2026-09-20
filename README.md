@@ -4,6 +4,7 @@
 
 # 💫 About Me:
 I'm Aayan, a Computer Science student and Frontend Developer from Karachi, Pakistan, currently building my skills toward becoming a Full Stack Developer.<br><br>💻 Frontend Developer focused on building responsive and user-friendly web applications.<br>⚛️ Currently learning React.js and strengthening my JavaScript fundamentals.<br>🎨 Skilled in HTML, CSS, JavaScript, Tailwind CSS,WordPress and Figma.<br>🛠️ Experienced with Git & GitHub and modern frontend development workflows.<br>🚀 Built projects including To-Do Apps, Calculators, Games, and responsive websites.<br>🌐 Interested in building real-world web applications rather than only tutorial projects.<br>📚 Currently progressing toward Full Stack Development — React → Next.js → Backend → Database → Authentication → API's<br>🎓 Pursuing a BS in Computer Science from ILMA UNIVERSITY.<br>💼 Open to internships, junior frontend opportunities, and collaborative projects.
+<b>Portfolio:</b>https://portfolio-weld-zeta-67.vercel.app/
 
 
 
